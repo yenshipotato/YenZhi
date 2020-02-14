@@ -5,5 +5,5 @@
 
 * **_yen.py_** and **_Yen.txt_** must be in the same directory.
 
->Some functions (index 2 in application) have not been accomplished yet.
+>Some functions (index 2 in application) have not been finished yet.
 # That's it.
