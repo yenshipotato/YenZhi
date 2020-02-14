@@ -1,5 +1,5 @@
 # YenZhi
-* **_yen.py_** needs python 3.X environment.
+* **_yen.py_** needs **_python 3.X_** environment.
 
 * You can type  **_python yen.py_** in cmd to execute it.
 
